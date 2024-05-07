@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2024-04-20",
+        "category": "Доход",
+        "price": 30000,
+        "description": "Аванс"
+    },
+    {
+        "date": "2024-05-07",
+        "category": "Доход",
+        "price": 40000,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2024-04-23",
+        "category": "Расход",
+        "price": 5000,
+        "description": "Продукты"
+    },
+    {
+        "date": "2024-05-07",
+        "category": "Расход",
+        "price": 20000,
+        "description": "Мебель"
+    },
+    {
+        "date": "2024-04-27",
+        "category": "Расход",
+        "price": 4000,
+        "description": "Развлечения"
+    }
+]
